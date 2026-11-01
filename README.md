@@ -23,7 +23,7 @@ Created and executed my first Java programme.
 
 
 
-# COS 201 — Computer Programming I
+# Week: 2 COS 201 —  Computer Programming I
 
 ## Student Information
 - Name: Agu Izuchukwu Daniel
