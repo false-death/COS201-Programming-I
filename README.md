@@ -1,102 +1,132 @@
+# COS 201 – Computer Programming I
 
-# COS 201 - Computer Programming I
+**Student Name:** Agu Izuchukwu Daniel  
+**Matriculation Number:** 25/17773  
+**Programme:** Computer Science  
+**Course Code:** COS 201  
+**Institution:** Caleb University
+
+---
+
+# Weekly Practical Exercises
 
 ## Week 1: Introduction to Programming and Problem-Solving
 
-### Student Details
-- Name: Agu Izuchukwu Daniel
-- Matriculation Number: 25/17773
-- Programme: Computer Science
-- Course Code: COS 201
+### Practical Title
+Introduction to Java Programming
+
+### Objective
+To understand the basic concepts of programming and write, compile, and execute a simple Java program.
 
 ### Practical Exercise
-Created and executed my first Java programme.
+Created and successfully executed my first Java program using the Java programming language.
 
 ### File
-- week01/FirstProgram.java
+- `week01/FirstProgram.java`
 
-### Skills Practised
-- Java class and main method
-- Output statements
-- Compilation and execution
-- GitHub version control
+### Skills Acquired
+- Understanding Java class structure.
+- Creating the `main()` method.
+- Using `System.out.println()` to display output.
+- Understanding basic program execution.
+- Introduction to GitHub version control.
 
+---
 
+## Week 2: Development Environment and First Java Program
 
-# Week: 2 COS 201 —  Computer Programming I
+### Practical Title
+Setting Up the Java Development Environment
 
-## Student Information
-- Name: Agu Izuchukwu Daniel
-- Matriculation Number: 25/17773
-- Programme: Computer Science
-- Course: COS 201
-- Week: 2
+### Objective
+To configure the Java development environment, write simple Java programs, compile and execute them, and submit the source code through GitHub.
 
-## Practical Title
-Development Environment and First Java Program
-
-## Objective
-To configure the Java development environment, write a simple Java program, compile it, execute it and submit the source code through GitHub.
-
-## Tools Used
+### Tools and Technologies Used
 - Java Development Kit (JDK)
-- Visual Studio Code
+- Visual Studio Code (VS Code)
 - Git
 - GitHub Desktop
 - GitHub
 
-## Files
-- week02/HelloWorld.java
-- week02/PrintExample.java
-- week02/CommentExample.java
+### Programs Developed
+1. `week02/HelloWorld.java` – Displays a simple Hello World message.
+2. `week02/PrintExample.java` – Demonstrates the use of Java output statements.
+3. `week02/CommentExample.java` – Demonstrates the use of comments in Java.
 
-## How to Run
-1. Open a terminal in the week02 directory.
-2. Compile using javac HelloWorld.java.
-3. Run using java HelloWorld.
+### Compilation and Execution
+To compile and execute the programs:
 
-## Learning Outcome
-I practised creating, compiling and running Java programs and submitting source code through GitHub.
+1. Open the terminal in the `week02` directory.
+2. Compile the Java file using:
 
+   `javac HelloWorld.java`
 
+3. Execute the compiled program using:
+
+   `java HelloWorld`
+
+### Learning Outcomes
+- Configured and used the Java development environment.
+- Practised writing basic Java programs.
+- Understood the difference between compiling and executing a program.
+- Learnt how to use comments and output statements.
+- Practised submitting source code using GitHub.
+
+---
 
 ## Week 3: Variables, Data Types, Expressions and Input/Output
 
 ### Objectives
-- Declare and initialize Java variables.
-- Use appropriate primitive and reference data types.
-- Perform arithmetic calculations.
-- Read keyboard input using Scanner.
-- Display formatted output.
-- Compile, test and submit Java programs using GitHub.
+- Declare and initialise variables in Java.
+- Identify and use appropriate primitive and reference data types.
+- Perform arithmetic operations and calculations.
+- Accept keyboard input using the `Scanner` class.
+- Display results using formatted output.
+- Compile, test, and submit Java programs using GitHub.
 
-### Programs
+### Programs Developed
 
-1. `week03/SimpleCalculator.java`
-   - Performs arithmetic calculations on two numbers.
+**1. SimpleCalculator.java**
+- Performs basic arithmetic calculations using two numbers.
 
-2. `week03/AverageCalculator.java`
-   - Calculates the total and average of three scores.
+**2. AverageCalculator.java**
+- Calculates the total and average of three scores.
 
-3. `week03/ItemCost.java`
-   - Calculates the total cost using quantity and unit price.
+**3. ItemCost.java**
+- Calculates the total cost of items using quantity and unit price.
 
-### How to Run
+### Compilation and Execution
 
 Open a terminal in the `week03` directory.
 
-Simple Calculator:
-- `javac SimpleCalculator.java`
-- `java SimpleCalculator`
+**Simple Calculator**
+```bash
+javac SimpleCalculator.java
+java SimpleCalculator
+```
 
-Average Calculator:
-- `javac AverageCalculator.java`
-- `java AverageCalculator`
+**Average Calculator**
+```bash
+javac AverageCalculator.java
+java AverageCalculator
+```
 
-Item Cost:
-- `javac ItemCost.java`
-- `java ItemCost`
+**Item Cost Calculator**
+```bash
+javac ItemCost.java
+java ItemCost
+```
 
-### Testing
+### Testing and Verification
+Each program was tested using different valid inputs. The output of each program was checked to ensure that the calculations were correct and produced the expected results.
 
-Tested each program with different valid inputs and verified that the results match the expected calculations.
+### Learning Outcomes
+- Gained practical experience declaring and initialising variables.
+- Understood the use of different Java data types.
+- Applied arithmetic operators in solving computational problems.
+- Practised accepting user input using `Scanner`.
+- Improved understanding of program compilation, execution, and testing.
+- Gained experience organising and submitting programming exercises through GitHub.
+
+---
+
